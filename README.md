@@ -6,7 +6,7 @@ Lembre-se que as pessoas querem informações práticas, objetivas e, principalm
 
 ## Insira imagens
 
-!(https://github.com/fabianocostateixeira/eletricalc/blob/main/images/carro5.jpg)
+![alt text](https://github.com/fabianocostateixeira/eletricalc/blob/main/images/carro5.jpg "Imagem do carro JAC iEV40 adesivado com as marcas do projeto")
 
 ## Insira vídeos
 
