@@ -10,5 +10,8 @@ Lembre-se que as pessoas querem informações práticas, objetivas e, principalm
 
 ## Insira vídeos
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/79ehBlsvnXg/0.jpg)](http://www.youtube.com/watch?v=79ehBlsvnXg)
+
+
 
 
