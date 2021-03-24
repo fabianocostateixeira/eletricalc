@@ -12,6 +12,10 @@ Lembre-se que as pessoas querem informações práticas, objetivas e, principalm
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/79ehBlsvnXg/0.jpg)](http://www.youtube.com/watch?v=79ehBlsvnXg)
 
+<ul>
+  <li><a href="https://www.pucpcaldas.br">PUC Minas</a></li>
+  <li><a href="https://www.aneel.gov.br">ANEEL</a></li>
+</ul>
 
 
 
