@@ -6,9 +6,9 @@ Lembre-se que as pessoas querem informações práticas, objetivas e, principalm
 
 ## Insira imagens
 
-(https://github.com/fabianocostateixeira/eletricalc/blob/main/images/carro5.jpg)
+!(https://github.com/fabianocostateixeira/eletricalc/blob/main/images/carro5.jpg)
 
 ## Insira vídeos
 
 
-End
+
