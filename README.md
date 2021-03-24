@@ -1,7 +1,12 @@
-# REPOSITÓRIO PARA DEMONSTRAÇÃO 
+# APRESENTE AQUI INFORMAÇÕES IMPORTANTES SOBRE SEU PROJETO 
 
-## Como integrar o Github ao Heroku
+## Um resumo é sempre importante
 
-Esse repositório é um exemplo de integração do Github ao Heroku para simplificação do processo de deploy
+Lembre-se que as pessoas querem informações práticas, objetivas e, principalmente objetivas. Então, um bom resumo é a chave para conquitar o leitor para que ele continue acessando seu conteúdo
+
+## Insira imagens
+
+## Insira vídeos
+
 
 End
